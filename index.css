@@ -1,0 +1,22 @@
+#screenwidth{
+  width: 800px;
+}
+#green{
+  background-color: rgb(65, 229, 47);
+}
+img{
+  width: 800px;
+}
+#red{
+  color: rgb(165, 42, 48);
+}
+#yellow{
+  color: rgb(240, 244, 15);
+}
+ul{
+  list-style-position: outside;
+}
+#top{
+    width: 600px;
+    margin: 0 auto;
+}
