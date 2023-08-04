@@ -1,7 +1,7 @@
-const useString = prompt("Введите своё имя!");
-greeting(useString);
+// const useString = prompt("Введите своё имя!");
+greeting(usename);
 
-function greeting (useString){
+function greeting(usename) {
   return console.log(`Приветствую Вас, ${useString}!`);
 }
 
